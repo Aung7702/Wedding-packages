@@ -13,6 +13,7 @@ const package3 = document.querySelector(".package-3");
 const cards = document.querySelector(".cards");
 
 const hamburgerTag = document.querySelector(".hamburger");
+
 const firstTag = document.querySelector(".first");
 const secondTag = document.querySelector(".second");
 const thirdTag = document.querySelector(".third");
